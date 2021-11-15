@@ -1,13 +1,13 @@
 # mdia3126-week-9
 
-<IMPORTANT>
+--------------------IMPORTANT--------------------------
   
 1. Please do your own web/app's Firebase configuration.
   The file is under mob > utils > initfb & web > utils > initfb
 
 2. Looks like Henry has not completed week 9 lecture yet, so this repo is also a undone. But this is already up to date for class 9.
   
-</IMPORTANT>
+--------------------IMPORTANT--------------------------
 
 Get into ur course folder to clone my repo.
 
