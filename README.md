@@ -3,8 +3,8 @@
 --------------------IMPORTANT--------------------------
   
 1. Please do your own web/app's Firebase configuration.
-  The files is under: 
-  mob > utils > initfb 
+  The files is under: <br>
+  mob > utils > initfb <br>
   web > utils > initfb
 
 2. Looks like Henry has not completed week 9 lecture yet, so this repo is also a undone. But this is already up to date for class 9.
