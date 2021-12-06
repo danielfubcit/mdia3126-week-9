@@ -58,7 +58,7 @@ export default function App() {
 
     const file = await fetch(file_uri);
     //file blob
-    const blob = file.blob();
+    const blob = await file.blob();
 
     const storage = getStorage();
     const storageRef = ref(storage, 'test_mobile.jpg');
